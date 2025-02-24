@@ -9,24 +9,29 @@ gtag_id = "G-XLJ81DCZFV"
 base_url = "https://thevahidal.github.io/jake"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Ryan Gosling Films"
+description = "A collection of Ryan Gosling's finest films"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+embed_url = "https://www.youtube.com/watch?v=gCcx85zbxz4"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "Blade Runner 2049"
+description = "A visually stunning sci-fi sequel starring Ryan Gosling as Officer K"
+url = "https://www.imdb.com/title/tt1856101/"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
+title = "Drive"
+description = "A neo-noir action thriller featuring Ryan Gosling as a skilled getaway driver"
+url = "https://www.imdb.com/title/tt0780504/"
 [[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "La La Land"
+description = "A heartwarming musical romance starring Ryan Gosling and Emma Stone"
+url = "https://www.imdb.com/title/tt3783958/"
+[[sections.items]]
+title = "The Nice Guys"
+description = "A buddy-cop comedy with Ryan Gosling and Russell Crowe investigating a mysterious case"
+url = "https://www.imdb.com/title/tt3799694/"
+
 
 
 [[sections]]
