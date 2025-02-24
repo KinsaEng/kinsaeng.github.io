@@ -43,16 +43,16 @@ icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+url = "https://www.instagram.com/ryangoslinguk/"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/imdb/ffffff"
 title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
+url = "https://www.imdb.com/name/nm0331516/"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
 title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+url = "https://en.wikipedia.org/wiki/Ryan_Gosling"
 [[sections.items]]
 title = "Rotten Tomatoes"
 icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+url = "https://www.rottentomatoes.com/celebrity/ryan_gosling"
